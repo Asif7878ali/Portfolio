@@ -378,6 +378,12 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.row {
+  display: flex;
+  justify-content: space-between; 
+  margin-bottom: 2rem;
+}
+
 /* CONTACT */
 
 #contact {
